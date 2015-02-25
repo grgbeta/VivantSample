@@ -1,0 +1,21 @@
+Select a minimum android/iOS version to use, and explain your decision. For any 3rd party libraries used in your project, explain why you chose that particular one.
+
+  1.  Each time the App Launches connect to a remote file, which contains sample JSON for some fictitious art galleries. 
+  The JSON file is located at: http://www.vivant.com.au/tmp/galleries.json
+  2.  Display a map, plotting a point for each of the locations found in the data.
+  3.  When a user selects one of the points, display some info for that gallery in the popup view.
+  4.  Allow the user to then select that gallery, taking them to the next screen.
+  5.  On loading the next screen, first check if there is a local storage entry (database or alternative) for this art gallery. 
+  If not, create one, including a record for each piece of art, based on the number listed in the data.
+  6.  The art gallery screen should display a scrollable view that contains an entry for each piece of art, 
+  so the user can scroll past each piece.  How each art piece is visually represented on screen is up to you.
+  7.  Allow the user to "rate" each piece of art.  This rating should also be stored locally, 
+  so that further views of this art gallery will display the original rating.
+
+Additional 1.   Add an alternative "list" mode for displaying art galleries, instead of on the map.
+Additional 2.   Add a splash screen that appears on the screen for 3 seconds after App launch.
+(Note: Your project will not be assessed on any included imagery or visual design, however code style and correctness will be.)
+For anything that is unclear or unanswered in the above instructions, please explain the assumptions you proceeded with.
+
+C:\Program Files\Java\jdk1.7.0_67\bin
+
