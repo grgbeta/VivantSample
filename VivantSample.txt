@@ -17,5 +17,5 @@ Additional 2.   Add a splash screen that appears on the screen for 3 seconds aft
 (Note: Your project will not be assessed on any included imagery or visual design, however code style and correctness will be.)
 For anything that is unclear or unanswered in the above instructions, please explain the assumptions you proceeded with.
 
-C:\Program Files\Java\jdk1.7.0_67\bin
+
 
